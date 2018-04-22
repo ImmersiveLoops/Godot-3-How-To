@@ -1,0 +1,17 @@
+[remap]
+
+importer="Theora"
+type="VideoStreamTheora"
+path="res://.import/metropolis.ogv-36414402ba7791d62a851057c93ee459.ogvstr"
+
+[deps]
+
+source_file="res://metropolis.ogv"
+source_md5="b0c87a7ae1a4a6e9640e4316d92ba244"
+
+dest_files=[ "res://.import/metropolis.ogv-36414402ba7791d62a851057c93ee459.ogvstr" ]
+dest_md5="1b35e8f78612b7fddb66e007b101167f"
+
+[params]
+
+loop=true
